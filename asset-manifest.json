@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/dojo-blog-react-projects/static/css/main.34475f38.chunk.css",
+    "main.js": "/dojo-blog-react-projects/static/js/main.2b233106.chunk.js",
+    "main.js.map": "/dojo-blog-react-projects/static/js/main.2b233106.chunk.js.map",
+    "runtime-main.js": "/dojo-blog-react-projects/static/js/runtime-main.646f0aae.js",
+    "runtime-main.js.map": "/dojo-blog-react-projects/static/js/runtime-main.646f0aae.js.map",
+    "static/js/2.52563c14.chunk.js": "/dojo-blog-react-projects/static/js/2.52563c14.chunk.js",
+    "static/js/2.52563c14.chunk.js.map": "/dojo-blog-react-projects/static/js/2.52563c14.chunk.js.map",
+    "index.html": "/dojo-blog-react-projects/index.html",
+    "static/css/main.34475f38.chunk.css.map": "/dojo-blog-react-projects/static/css/main.34475f38.chunk.css.map",
+    "static/js/2.52563c14.chunk.js.LICENSE.txt": "/dojo-blog-react-projects/static/js/2.52563c14.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.646f0aae.js",
+    "static/js/2.52563c14.chunk.js",
+    "static/css/main.34475f38.chunk.css",
+    "static/js/main.2b233106.chunk.js"
+  ]
+}
